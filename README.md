@@ -41,79 +41,7 @@ print((soi))
     1951 -0.1580000  0.3660000  0.6070000 -0.3550000 -0.1800000  0.2680000
     1952  0.7600000  0.8910000  0.6070000  0.5740000  0.0050000  0.4750000
     1953  0.5300000  0.5300000  0.3770000 -0.2350000 -0.5850000 -0.1800000
-    1954  0.4100000  0.2240000  0.1480000 -0.4320000 -0.0930000 -0.2680000
-    1955  0.3440000 -0.0380000  0.2900000 -0.1260000 -0.3660000 -0.1150000
-    1956  0.6500000  0.6280000  0.1260000  0.1690000  0.1370000 -0.2570000
-    1957  0.1910000  1.0000000  0.4860000  0.4100000  0.1580000  0.1260000
-    1958  0.7050000  0.6390000  0.4540000  0.3110000  0.3550000 -0.1580000
-    1959  0.0820000  0.1480000  0.0600000 -0.1910000 -0.6070000 -0.5850000
-    1960  0.1690000  0.4320000  0.2020000 -0.3660000 -0.6610000  0.0930000
-    1961  0.6070000  0.1800000  0.0710000  0.2460000 -0.4320000  0.0600000
-    1962  0.1690000  0.3330000 -0.0050000 -0.0380000 -0.1260000 -0.4430000
-    1963  0.3110000  0.5960000  0.0050000  0.3880000 -0.5080001 -0.5520000
-    1964  0.3220000  0.1800000  0.1260000  0.0820000  0.1260000 -0.2130000
-    1965  0.7380000  0.4430000  0.5960000 -0.1370000 -0.4860000 -0.3770000
-    1966  0.3110000  0.3880000  0.3880000  0.1800000 -0.3330000  0.0490000
-    1967  0.3330000  0.3770000  0.0710000 -0.1580000 -0.5410000 -0.6830000
-    1968  0.1150000  0.4640000  0.1040000 -0.1800000 -0.6720000  0.1040000
-    1969  0.5300000  0.6610000  0.3550000 -0.3440000 -0.0380000  0.2350000
-    1970  0.7050000  0.3770000  0.5850000 -0.1260000 -0.2130000  0.1480000
-    1971  0.0820000  0.5740000  0.3550000 -0.2570000 -0.3770000 -0.3440000
-    1972  0.3660000  0.3660000  0.0380000 -0.2680000  0.3220000  0.0820000
-    1973  0.6610000  0.7160000  0.6280000  0.1910000  0.5300000  0.1800000
-    1974  0.1040000  0.2240000  0.4320000 -0.2130000 -0.9670000 -1.0000000
-    1975  0.3330000  0.3550000  0.3880000 -0.0600000 -0.2020000  0.0050000
-    1976  0.8030000  0.8360000  0.6500000  0.0050000 -0.3660000  0.0710000
-    1977  0.2350000 -0.0930000  0.4750000 -0.0820000 -0.6170000 -0.0930000
-    1978  0.5520000  0.6070000  0.4640000 -0.3010000 -0.7700000 -0.6500000
-    1979  0.0820000  0.6070000 -0.1580000 -0.4540000 -0.7810000 -0.3880000
-    1980  0.3990000  0.0270000  0.0160000 -0.3770000 -0.1800000 -0.0380000
-    1981  0.1690000  0.3990000  0.1580000 -0.5410000 -0.6280000  0.0270000
-    1982  0.4540000  0.3010000 -0.0050000 -0.0930000 -0.2240000 -0.2130000
-    1983  0.7700000  0.6070000 -0.1580000 -0.2350000 -0.2020000 -0.3330000
-    1984  0.5190000  0.5410000  0.3010000 -0.5740000 -0.3440000 -0.2790000
-    1985 -0.6070000 -0.5630000 -0.2350000 -0.2460000 -0.3990000 -0.3330000
-    1986  0.0490000  0.4540000  0.1580000 -0.4210000 -0.2680000 -0.3110000
-    1987  0.3990000  0.5190000  0.4320000  0.3550000 -0.1260000 -0.5080001
-                Jul        Aug        Sep        Oct        Nov        Dec
-    1950  0.1370000  0.1910000 -0.0160000  0.2900000  0.0380000 -0.0160000
-    1951  0.0930000  0.0270000  0.2460000  0.2020000  0.4320000  0.6170000
-    1952  0.2020000 -0.0270000 -0.0380000  0.7160000  0.8360000  0.8910000
-    1953 -0.5300000 -0.4640000 -0.4430000  0.0490000  0.4540000  0.2570000
-    1954  0.1580000 -0.0600000 -0.3990000  0.2350000  0.3660000  0.2020000
-    1955 -0.3010000 -0.4860000 -0.1370000  0.7380000  0.3660000  0.3660000
-    1956  0.1690000 -0.0930000  0.4750000  0.6390000  0.5960000  0.7490000
-    1957  0.0600000  0.2460000  0.7380000  0.8030000  0.4210000  0.6170000
-    1958 -0.0380000  0.1150000  0.1370000  0.2570000  0.1150000  0.0380000
-    1959 -0.2680000 -0.0930000 -0.0930000  0.2570000 -0.0050000  0.2240000
-    1960 -0.7160000  0.1480000 -0.0930000  0.2790000  0.4320000 -0.1040000
-    1961 -0.3880000  0.2020000 -0.1040000  0.1910000  0.4750000  0.5520000
-    1962 -0.0160000  0.0270000  0.3330000  0.3550000  0.3440000  0.1150000
-    1963 -0.8580000 -0.5960000  0.0600000  0.0710000  0.2240000  0.2790000
-    1964 -0.2350000  0.1690000  0.3880000  0.5190000  0.1260000  0.4100000
-    1965  0.2680000 -0.1690000 -0.2130000 -0.1910000  0.3770000  0.1260000
-    1966 -0.0820000  0.1910000  0.3990000  0.0930000  0.0050000  0.3660000
-    1967 -0.6830000 -0.3440000 -0.3010000  0.2020000 -0.1260000  0.0820000
-    1968 -0.4860000  0.0930000  0.2790000  0.1040000  0.1800000  0.4750000
-    1969  0.4860000  0.1690000  0.3330000  0.1370000  0.1690000  0.3330000
-    1970 -0.1260000 -0.3440000 -0.5080001  0.2790000  0.0820000  0.3550000
-    1971 -0.6500000 -0.0930000 -0.1370000  0.1150000  0.7050000  0.3990000
-    1972  0.0820000  0.0600000  0.2680000  0.4210000  0.7700000  0.8030000
-    1973 -0.4640000  0.2790000  0.3550000  0.2020000  0.5520000  0.6170000
-    1974 -0.4320000 -0.6830000 -0.5080001 -0.1370000  0.0820000 -0.0600000
-    1975 -0.1150000  0.1370000  0.4540000  0.3880000  0.7380000  0.7700000
-    1976 -0.0050000 -0.4540000  0.1910000  0.4320000  0.6830000  0.3880000
-    1977 -0.0710000  0.4320000  0.4210000  0.4970000  0.4540000  0.5960000
-    1978 -0.6940000 -0.1370000 -0.4640000 -0.2460000  0.1690000 -0.2020000
-    1979  0.1800000  0.0600000 -0.5080001 -0.2680000  0.2240000  0.1150000
-    1980 -0.2020000  0.1370000  0.0930000 -0.2790000 -0.0380000  0.2350000
-    1981 -0.7380000 -0.9130000 -0.0270000  0.0710000 -0.1260000  0.0490000
-    1982 -0.3110000 -0.2350000 -0.3220000  0.3220000  0.0930000  0.1150000
-    1983 -0.1580000 -0.2240000 -0.3550000  0.0050000  0.4540000  0.4100000
-    1984 -0.7160000 -0.8690000 -0.5960000 -0.2900000 -0.4540000 -0.2460000
-    1985 -0.5300000 -0.0490000  0.1580000  0.1150000  0.3220000  0.1150000
-    1986 -0.1150000 -0.3220000 -0.3220000  0.1260000  0.3330000  0.5190000
-    1987 -0.3880000  0.3880000  0.0710000                                 
+    ...
     
 
 #### It’s hard to understand the data structures from just a table, so let’s start plotting the points on a Time-Value axis.
@@ -129,7 +57,7 @@ plot(soi,   main="Southern Oscillation Index - SOI",
 ```
 
 
-![png](output_4_0.png)
+![png](SoiRecTimeSeries_files/SoiRecTimeSeries_4_0.png)
 
 
 ### It’s still hard to figure out what is going on in the data, lets connect acceding points along time.
@@ -146,7 +74,7 @@ points(soi,pch=19, cex = 1, lty = "solid",type='p', col="red")
 ```
 
 
-![png](output_6_0.png)
+![png](SoiRecTimeSeries_files/SoiRecTimeSeries_6_0.png)
 
 
 ### The data is very noisy, So Lest apply a moving average on the time series to smooth it out. nice to see how the line we added visualize the data much better than just the scattered points we started with.
@@ -162,7 +90,7 @@ points(soi,pch=1, cex = 0.3, lty = "solid",type='p', col="red")
 ```
 
 
-![png](output_8_0.png)
+![png](SoiRecTimeSeries_files/SoiRecTimeSeries_8_0.png)
 
 
  Now the data is much clearer. We notice that Temperature deviations go up and down over time, but hard to see if they are more upwards or downwards, and hard to see the periodicity of the changes. First let’s analyze the trend, to do that, we run a standard linear regression on SOI plot.
@@ -201,7 +129,7 @@ abline(lm(soi~time(soi)), col="black", lw=4)
 
 
 
-![png](output_10_1.png)
+![png](SoiRecTimeSeries_files/SoiRecTimeSeries_10_1.png)
 
 
 We can	see	from	the	graph	and	the	regression	output,	there’s	clearly	a	trend at	work	here.	Sometimes	the	trend	masks	more	interesting	patterns of the	dataset,	so	we can use the regression line, to	de-trend the	dataset	and	examining	the	residuals. 
@@ -215,7 +143,7 @@ plot(resid(fit), type="o", main="detrended SOI")#plot the leftovers from the reg
 ```
 
 
-![png](output_12_0.png)
+![png](SoiRecTimeSeries_files/SoiRecTimeSeries_12_0.png)
 
 
 When looking at the linear regression plot, we fill that the regression line dose not capture fully and meaningfully the trend of the SOI index. To visualize trend more clearly, lets apply 2 smothers on the data, where one will capture the strong up and down movement, visualizing the El-Niño effect, and the other will capture the general trend of the SOI index.
@@ -260,7 +188,7 @@ ggplot( data=df, aes(x=Time, y=SOI) )                             +
 
 
 
-![png](output_16_2.png)
+![png](SoiRecTimeSeries_files/SoiRecTimeSeries_16_2.png)
 
 
 We can see very clearly in the upper plot, the periodicity of the ocean water extreme temperatures, but the trend is masked under the coloring. To correct that, let’s put it all together for fully clear visualization of the row SOI data and its meaning.
@@ -289,7 +217,7 @@ ggtitle('SOI index, trends and extereme temprature are visualized') +
 
 
 
-![png](output_18_2.png)
+![png](SoiRecTimeSeries_files/SoiRecTimeSeries_18_2.png)
 
 
 ## REC data visualization
@@ -306,7 +234,7 @@ points(rec,pch=1, cex = 0.3, lty = "solid",type='p', col="red")
 ```
 
 
-![png](output_20_0.png)
+![png](SoiRecTimeSeries_files/SoiRecTimeSeries_20_0.png)
 
 
 We can see that new fish population amount moves up and down with some period, or few periods. We can see that the data is less noisy from the scattered points in the plot, comparing to the SOI plot. Trend is hard to tell in this plot, so lest view the next plots revealing the trend in the data in a visual way.
@@ -332,7 +260,7 @@ ggplot( data=dr, aes(x=Time, y=REC) )            +
 
 
 
-![png](output_22_2.png)
+![png](SoiRecTimeSeries_files/SoiRecTimeSeries_22_2.png)
 
 
 ## SOI statistical analysis
@@ -352,7 +280,7 @@ acf(soi, 48, main="soi autocorrelation")
 ```
 
 
-![png](output_24_0.png)
+![png](SoiRecTimeSeries_files/SoiRecTimeSeries_24_0.png)
 
 
 Observations 12 months or one year apart are strongly positively correlated, as are observations at multiples of 12, standing for full years. Observations separated by six months are negatively correlated, showing that positive trend tend to be associated with negative trend six months forward or backward. 
@@ -392,7 +320,7 @@ lag.plot1(soi,12,smooth=TRUE)
     
 
 
-![png](output_26_1.png)
+![png](SoiRecTimeSeries_files/SoiRecTimeSeries_26_1.png)
 
 
 As expected, we can see high positive correlation between a month and one month backwards, and a weaker positive correlation with 2 months backwards. The highest positive correlation, is calculated at t-12 months, meaning that the strongest correlation is with a year backward. The strongest negative correlation, is happening at t-6 month’s lag, meaning that any trend happening at specific time, will predict the opposite trend 6 months later.
@@ -427,7 +355,7 @@ legend("topright", c("Row periodogram",
 ```
 
 
-![png](output_28_0.png)
+![png](SoiRecTimeSeries_files/SoiRecTimeSeries_28_0.png)
 
 
 There is some noise near the zero, usually caused by the data resampling, so we apply smoothing on the periodogram to see the real picks that describes the frequency of the data.
@@ -461,7 +389,7 @@ legend("topright", c("smoothed periodogram","row peridogram",
 ```
 
 
-![png](output_30_0.png)
+![png](SoiRecTimeSeries_files/SoiRecTimeSeries_30_0.png)
 
 
 Here, the first peak is at a frequency ≈ .0229.  The period (number of months) associated with this cycle = 1/.0229 = 43.7 months, or about 44 months.  The second peak occurs at a frequency ≈ 0.083333.  The associated period = 1/.08333 = 12 months.  The first peak is associated with an El Nino weather effect.  The second is the usual 12-month seasonal effect. Obviously there are  also periods at 24 months and 36 months, marked in the plot.
@@ -481,7 +409,7 @@ legend("bottomright", c("REC","SOI"),
 ```
 
 
-![png](output_33_0.png)
+![png](SoiRecTimeSeries_files/SoiRecTimeSeries_33_0.png)
 
 
 Hard to understand anything in this plot, since SOI and REC data are on different scales. Lest scale the SOI data to fit the REC scale.
@@ -497,7 +425,7 @@ legend("bottomright", c("REC","Scaled SOI"),
 ```
 
 
-![png](output_35_0.png)
+![png](SoiRecTimeSeries_files/SoiRecTimeSeries_35_0.png)
 
 
 Still hard to understand something, so let’s plot SOI and REC on the same time scale.
@@ -513,7 +441,7 @@ plot(cbind(soi, rec), col='blue',
 ```
 
 
-![png](output_37_0.png)
+![png](SoiRecTimeSeries_files/SoiRecTimeSeries_37_0.png)
 
 
 As we sow previously, The SOI series shows several kinds of oscillations, a faster frequency that seems to repeat about every 12 months and a slower frequency that seems to repeat about every 44 months. The REC series also show several kinds of oscillations, and we can see some negative cross correlation between the series.
@@ -528,7 +456,7 @@ ccf(soi, rec, 48, main='SOI vs REC', ylab='CCF')
 ```
 
 
-![png](output_39_0.png)
+![png](SoiRecTimeSeries_files/SoiRecTimeSeries_39_0.png)
 
 
 The cross-correlation function peaks at h = −6, showing that the SOI measured at time t − 6 months is associated with the Recruitment series at time t. We could say the SOI leads the Recruitment series by six months. The sign of the ACF is negative, leading to the conclusion that the two series move in different directions; that is, increases in SOI lead to decreases in Recruitment and vice versa. Again, note the periodicity of 12 months in the CCF.
@@ -543,7 +471,7 @@ lag2.plot (soi, rec, 8)
 ```
 
 
-![png](output_41_0.png)
+![png](SoiRecTimeSeries_files/SoiRecTimeSeries_41_0.png)
 
 
 We see here that SOI lags t-5,t-6,t-7 and t-8 are best correlated to REC. So we will try to fit linear combination of those SOI lags to REC series.
@@ -601,11 +529,11 @@ legend("bottomright", c("REC","Fitted SOI"),
 ```
 
 
-![png](output_45_0.png)
+![png](SoiRecTimeSeries_files/SoiRecTimeSeries_45_0.png)
 
 
 
-![png](output_45_1.png)
+![png](SoiRecTimeSeries_files/SoiRecTimeSeries_45_1.png)
 
 
 
@@ -629,5 +557,5 @@ legend("bottomright", c("REC smoothed","Fitted SOI smoothed"),
 ```
 
 
-![png](output_47_0.png)
+![png](SoiRecTimeSeries_files/SoiRecTimeSeries_47_0.png)
 
